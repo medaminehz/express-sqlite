@@ -22,6 +22,7 @@ npm start
 ## Captures
 ![Alt text](https://i.imgur.com/IPIcG1s.png)
 
+![Alt text](https://i.imgur.com/uOgcX0t.png)
 
 
 
