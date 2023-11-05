@@ -20,9 +20,7 @@ npm start
 - REST API endpoints for accessing and modifying data.
 
 ## Captures
+![Alt text]([D:\5eme info\Devops\tp3\1.png](https://imgur.com/IPIcG1s)https://imgur.com/IPIcG1s)
+![Alt text]([D:\5eme info\Devops\tp3\1.png]([https://imgur.com/IPIcG1s)https://imgur.com/IPIcG1s](https://imgur.com/uOgcX0t)https://imgur.com/uOgcX0t)
 
-Include any relevant captures and screenshots of the project's execution here. [Link to captures](link_to_captures)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
