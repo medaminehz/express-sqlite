@@ -20,7 +20,7 @@ npm start
 - REST API endpoints for accessing and modifying data.
 
 ## Captures
-![Alt text]([D:\5eme info\Devops\tp3\1.png](https://imgur.com/IPIcG1s)https://imgur.com/IPIcG1s)
-![Alt text]([D:\5eme info\Devops\tp3\1.png]([https://imgur.com/IPIcG1s)https://imgur.com/IPIcG1s](https://imgur.com/uOgcX0t)https://imgur.com/uOgcX0t)
+![Alt text](https://imgur.com/IPIcG1s)
+![Alt text](https://imgur.com/uOgcX0t)
 
 
